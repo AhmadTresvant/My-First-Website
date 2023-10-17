@@ -1,0 +1,107 @@
+ul{
+  list-style-type: none;
+  display: inline;
+}
+
+header {
+  background-color: 2B2D42;
+  border: solid red 5px;
+}
+
+li {
+  display: inline;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+a {
+  color: EDF2F4;
+  padding: 0px;
+  margin: 0px;
+  border: solid 3px;
+  border-radius: 10px;
+  border-color: EF233C;
+  text-decoration: none;
+  
+}
+
+nav {
+  display: inline;
+}
+
+
+h1 {
+  text-align: right;
+  padding: 0px;
+  margin: 0px;
+  color: EDF2F4;
+ 
+  font-size: 30px;
+}
+
+section :first-child {
+  text-align: center;
+  background-color: 8D99AE;
+  color: white;
+  font-family: 'Pixelify Sans', sans-serif;
+  color: crimson;
+}
+
+img {
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  border: solid 5px;
+  border-color: EF233C;
+}
+
+main {
+  background-color: 2B2D42;
+}
+
+body {
+  background-color: 8D99AE;
+}
+
+p {
+  font-size: 30px;
+  text-align: center;
+  color: white;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+h2 {
+  font-weight: bold;
+  font-size: 35px;
+  font-family: 'Permanent Marker', cursive;
+  
+  
+}
+
+.name {
+  -webkit-text-stroke: 1px;
+  -webkit-text-stroke-color: black;
+  font-family: 'Permanent Marker', cursive;
+}
+
+a {
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+.about {
+  font-size: 15px;
+  text-align: center;
+  color: white;
+  font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+main :first-child {
+  text-align: center;
+  font-family: 'Permanent Marker', cursive;
+}
