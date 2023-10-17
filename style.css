@@ -26,6 +26,7 @@ a {
   border-radius: 10px;
   border-color: EF233C;
   text-decoration: none;
+  background-color: 8D99AE;
 }
 
 nav {
@@ -46,6 +47,7 @@ section :first-child {
   background-color: 8D99AE;
   color: edf2f4;
   font-family: 'Pixelify Sans';
+  
   
 }
 
@@ -82,7 +84,7 @@ h2 {
 
 .name {
   -webkit-text-stroke: 1px;
-  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-color: crimson;
   font-family: 'Permanent Marker';
 }
 
@@ -103,11 +105,12 @@ main :first-child {
 }
 
 footer {
-  background-color: ef233c;
+  background-color: crimson;
 }
 
 .home {
   font-size: 20px;
+  background-color: ef233c;
 }
 
 .header {
@@ -125,7 +128,20 @@ footer {
   top: 0;
 }
 
-div {
-  padding-top: 10px;
-  padding-bottom: 0px;
+h3 {
+  color: crimson;
+  font-family: 'Pixelify Sans';
+  background-color: white;
+  display:block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  border: solid crimson 3px;
 }
+
+
+.contact{
+  margin-left: 70px;
+  margin-right: 70px;
+}
+
